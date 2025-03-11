@@ -8,7 +8,7 @@ class Age_category
 { 
    int age=19;
      if(age<0)
-     System.out.println("Invalid Input");
+     System.out.println("Invalid Input");  //THERE IS ONLY ONE OUTPUT STATEMENT IN IF SCOPE SO {} ARE NOT REQUIRED 
      
      else if(age<10)
      System.out.println("Youre a KID");
